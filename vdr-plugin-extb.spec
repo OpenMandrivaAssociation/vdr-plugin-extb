@@ -2,7 +2,7 @@
 %define plugin	extb
 %define name	vdr-plugin-%plugin
 %define version	0.3.1
-%define rel	3
+%define rel	4
 
 Summary:	VDR plugin: control the extb board
 Name:		%name
