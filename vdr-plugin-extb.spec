@@ -3,7 +3,7 @@
 Summary:	VDR plugin: control the extb board
 Name:		vdr-plugin-%plugin
 Version:	0.3.1
-Release:	5
+Release:	6
 Group:		Video
 License:	GPL
 URL:		http://deltab.de/
